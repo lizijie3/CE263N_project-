@@ -1,5 +1,5 @@
 #y
 #ugkbjxdhgb
 #gfhdfm
-a=1
+a=
 b=2
